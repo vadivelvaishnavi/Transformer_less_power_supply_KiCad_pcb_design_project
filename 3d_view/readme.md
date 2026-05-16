@@ -1,1 +1,1 @@
-3d_view of pcb both front and back images were uploaded here
+3d_view of pcb both top and bottom images were uploaded here
