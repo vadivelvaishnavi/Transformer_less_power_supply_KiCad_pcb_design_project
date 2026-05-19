@@ -1,4 +1,6 @@
-# Transformer-less Power Supply  <br><br>
+# Transformer-less Power Supply  <br>
+
+<img width="1341" height="356" alt="image" src="https://github.com/user-attachments/assets/cb6249f0-ab54-4137-a752-130765b54de2" />
 
 ## Overview
 This project demonstrates the design of a **transformer-less power supply** using KiCad. <br>
