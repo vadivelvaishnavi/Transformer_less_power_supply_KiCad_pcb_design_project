@@ -1,8 +1,9 @@
-# Transformer-less Power Supply pcb_design (KiCad Project)
+# Transformer-less Power Supply  <br><br>
 
 ## Overview
-This project demonstrates the design of a **transformer-less power supply** using KiCad.  
-The circuit converts AC mains input into a regulated DC output using capacitive voltage dropping, rectification, filtering, and regulation.  
+This project demonstrates the design of a **transformer-less power supply** using KiCad. <br>
+The circuit converts AC mains input into a regulated DC output using capacitive voltage dropping, rectification, filtering, and regulation. <br>
+Developed for pcb design competition held at Shakespeare Gallery in TT. <br>
 
 ---
 
@@ -47,9 +48,9 @@ Always follow electrical safety standards.
 
 ---
 ## Team:
-V VAISHNAVI
-GURUPRIYAA N
-DISHIKA G
+V VAISHNAVI <br>
+GURUPRIYAA N <br>
+DISHIKA G <br>
 
 ## Institution: Vellore Institute of Technology (VIT)
 
